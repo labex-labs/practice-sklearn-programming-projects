@@ -14,13 +14,13 @@ scikit-learn est une bibliothèque Python puissante pour l'apprentissage automat
 
 |   Index | Nom                                                                                                                                                      | Difficulté   | Pratique                                                                                                       |
 |---------|----------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------|
-|       1 | [Classification des iris à l'aide de SVM](https://labex.io/fr/courses/project-classifying-iris-using-svm)                                                | ★☆☆          | [🚀 Commencer le Lab](https://labex.io/fr/courses/project-classifying-iris-using-svm)                          |
-|       2 | [Prédiction du risque des titulaires de cartes de crédit](https://labex.io/fr/courses/project-credit-card-holder-risk-prediction)                        | ★☆☆          | [🚀 Commencer le Lab](https://labex.io/fr/courses/project-credit-card-holder-risk-prediction)                  |
-|       3 | [Classifieur simple de reconnaissance de caractères manuscrits](https://labex.io/fr/courses/project-simple-handwritten-character-recognition-classifier) | ★☆☆          | [🚀 Commencer le Lab](https://labex.io/fr/courses/project-simple-handwritten-character-recognition-classifier) |
+|       1 | [Classification des iris à l'aide de SVM](https://labex.io/fr/courses/project-classifying-iris-using-svm)                                                | Débutant     | [🚀 Commencer le Lab](https://labex.io/fr/courses/project-classifying-iris-using-svm)                          |
+|       2 | [Prédiction du risque des titulaires de cartes de crédit](https://labex.io/fr/courses/project-credit-card-holder-risk-prediction)                        | Débutant     | [🚀 Commencer le Lab](https://labex.io/fr/courses/project-credit-card-holder-risk-prediction)                  |
+|       3 | [Classifieur simple de reconnaissance de caractères manuscrits](https://labex.io/fr/courses/project-simple-handwritten-character-recognition-classifier) | Débutant     | [🚀 Commencer le Lab](https://labex.io/fr/courses/project-simple-handwritten-character-recognition-classifier) |
 
 ## Plus
 
 - 🔗 [scikit-learn En savoir plus sur](https://labex.io/fr/skilltrees/sklearn)
-- 🔗 [Awesome Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Projets de Programmation Formidables](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Cours de Programmation Formidables](https://github.com/labex-labs/awesome-programming-courses)
 
