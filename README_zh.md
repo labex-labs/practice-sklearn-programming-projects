@@ -14,13 +14,13 @@ scikit-learn 是一个强大的 Python 机器学习库。此技能树提供了�
 
 |   序号 | 名称                                                                                                              | 难度   | 练习                                                                                                   |
 |--------|-------------------------------------------------------------------------------------------------------------------|--------|--------------------------------------------------------------------------------------------------------|
-|      1 | [使用 SVM 分类鸢尾花数据集](https://labex.io/zh/courses/project-classifying-iris-using-svm)                       | ★☆☆    | [🚀 开始实验](https://labex.io/zh/courses/project-classifying-iris-using-svm)                          |
-|      2 | [信用卡持卡人风险预测](https://labex.io/zh/courses/project-credit-card-holder-risk-prediction)                    | ★☆☆    | [🚀 开始实验](https://labex.io/zh/courses/project-credit-card-holder-risk-prediction)                  |
-|      3 | [简单手写字符识别分类器](https://labex.io/zh/courses/project-simple-handwritten-character-recognition-classifier) | ★☆☆    | [🚀 开始实验](https://labex.io/zh/courses/project-simple-handwritten-character-recognition-classifier) |
+|      1 | [使用 SVM 分类鸢尾花数据集](https://labex.io/zh/courses/project-classifying-iris-using-svm)                       | 初级   | [🚀 开始实验](https://labex.io/zh/courses/project-classifying-iris-using-svm)                          |
+|      2 | [信用卡持卡人风险预测](https://labex.io/zh/courses/project-credit-card-holder-risk-prediction)                    | 初级   | [🚀 开始实验](https://labex.io/zh/courses/project-credit-card-holder-risk-prediction)                  |
+|      3 | [简单手写字符识别分类器](https://labex.io/zh/courses/project-simple-handwritten-character-recognition-classifier) | 初级   | [🚀 开始实验](https://labex.io/zh/courses/project-simple-handwritten-character-recognition-classifier) |
 
 ## 更多
 
 - 🔗 [scikit-learn 了解更多](https://labex.io/zh/skilltrees/sklearn)
-- 🔗 [Awesome Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [精选编程项目](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [精选编程课程](https://github.com/labex-labs/awesome-programming-courses)
 
