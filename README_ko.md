@@ -14,13 +14,13 @@ scikit-learn 은 강력한 Python 머신 러닝 라이브러리입니다. 이 �
 
 |   인덱스 | 이름                                                                                                                      | 난이도   | 연습                                                                                                    |
 |----------|---------------------------------------------------------------------------------------------------------------------------|----------|---------------------------------------------------------------------------------------------------------|
-|        1 | [SVM 을 사용한 붓꽃 분류](https://labex.io/ko/courses/project-classifying-iris-using-svm)                                 | ★☆☆      | [🚀 실습 시작](https://labex.io/ko/courses/project-classifying-iris-using-svm)                          |
-|        2 | [신용카드 소지자 위험 예측](https://labex.io/ko/courses/project-credit-card-holder-risk-prediction)                       | ★☆☆      | [🚀 실습 시작](https://labex.io/ko/courses/project-credit-card-holder-risk-prediction)                  |
-|        3 | [간단한 손글씨 문자 인식 분류기](https://labex.io/ko/courses/project-simple-handwritten-character-recognition-classifier) | ★☆☆      | [🚀 실습 시작](https://labex.io/ko/courses/project-simple-handwritten-character-recognition-classifier) |
+|        1 | [SVM 을 사용한 붓꽃 분류](https://labex.io/ko/courses/project-classifying-iris-using-svm)                                 | 초급     | [🚀 실습 시작](https://labex.io/ko/courses/project-classifying-iris-using-svm)                          |
+|        2 | [신용카드 소지자 위험 예측](https://labex.io/ko/courses/project-credit-card-holder-risk-prediction)                       | 초급     | [🚀 실습 시작](https://labex.io/ko/courses/project-credit-card-holder-risk-prediction)                  |
+|        3 | [간단한 손글씨 문자 인식 분류기](https://labex.io/ko/courses/project-simple-handwritten-character-recognition-classifier) | 초급     | [🚀 실습 시작](https://labex.io/ko/courses/project-simple-handwritten-character-recognition-classifier) |
 
 ## 더 보기
 
 - 🔗 [scikit-learn 자세히 알아보기](https://labex.io/ko/skilltrees/sklearn)
-- 🔗 [Awesome Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [멋진 프로그래밍 프로젝트](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [멋진 프로그래밍 코스](https://github.com/labex-labs/awesome-programming-courses)
 
