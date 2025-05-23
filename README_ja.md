@@ -14,13 +14,13 @@ scikit-learn は強力な Python の機械学習ライブラリです。この�
 
 |   インデックス | 名前                                                                                                                      | 難易度   | 練習                                                                                                     |
 |----------------|---------------------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------------------------------|
-|              1 | [SVM を用いたアヤメの分類](https://labex.io/ja/courses/project-classifying-iris-using-svm)                                | ★☆☆      | [🚀 ラボを開始](https://labex.io/ja/courses/project-classifying-iris-using-svm)                          |
-|              2 | [クレジットカード保有者のリスク予測](https://labex.io/ja/courses/project-credit-card-holder-risk-prediction)              | ★☆☆      | [🚀 ラボを開始](https://labex.io/ja/courses/project-credit-card-holder-risk-prediction)                  |
-|              3 | [シンプルな手書き文字認識分類器](https://labex.io/ja/courses/project-simple-handwritten-character-recognition-classifier) | ★☆☆      | [🚀 ラボを開始](https://labex.io/ja/courses/project-simple-handwritten-character-recognition-classifier) |
+|              1 | [SVM を用いたアヤメの分類](https://labex.io/ja/courses/project-classifying-iris-using-svm)                                | 初級     | [🚀 ラボを開始](https://labex.io/ja/courses/project-classifying-iris-using-svm)                          |
+|              2 | [クレジットカード保有者のリスク予測](https://labex.io/ja/courses/project-credit-card-holder-risk-prediction)              | 初級     | [🚀 ラボを開始](https://labex.io/ja/courses/project-credit-card-holder-risk-prediction)                  |
+|              3 | [シンプルな手書き文字認識分類器](https://labex.io/ja/courses/project-simple-handwritten-character-recognition-classifier) | 初級     | [🚀 ラボを開始](https://labex.io/ja/courses/project-simple-handwritten-character-recognition-classifier) |
 
 ## その他
 
 - 🔗 [scikit-learn 詳細について](https://labex.io/ja/skilltrees/sklearn)
-- 🔗 [Awesome Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [素晴らしいプログラミングプロジェクト](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [素晴らしいプログラミングコース](https://github.com/labex-labs/awesome-programming-courses)
 
