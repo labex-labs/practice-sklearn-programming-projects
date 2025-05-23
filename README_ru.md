@@ -14,13 +14,13 @@ scikit-learn — это мощная библиотека машинного о�
 
 |   Индекс | Название                                                                                                                                           | Сложность   | Практика                                                                                                         |
 |----------|----------------------------------------------------------------------------------------------------------------------------------------------------|-------------|------------------------------------------------------------------------------------------------------------------|
-|        1 | [Классификация ирисов с использованием SVM](https://labex.io/ru/courses/project-classifying-iris-using-svm)                                        | ★☆☆         | [🚀 Начать Лабораторию](https://labex.io/ru/courses/project-classifying-iris-using-svm)                          |
-|        2 | [Предсказание риска держателей кредитных карт](https://labex.io/ru/courses/project-credit-card-holder-risk-prediction)                             | ★☆☆         | [🚀 Начать Лабораторию](https://labex.io/ru/courses/project-credit-card-holder-risk-prediction)                  |
-|        3 | [Простой классификатор распознавания рукописных символов](https://labex.io/ru/courses/project-simple-handwritten-character-recognition-classifier) | ★☆☆         | [🚀 Начать Лабораторию](https://labex.io/ru/courses/project-simple-handwritten-character-recognition-classifier) |
+|        1 | [Классификация ирисов с использованием SVM](https://labex.io/ru/courses/project-classifying-iris-using-svm)                                        | Начинающий  | [🚀 Начать Лабораторию](https://labex.io/ru/courses/project-classifying-iris-using-svm)                          |
+|        2 | [Предсказание риска держателей кредитных карт](https://labex.io/ru/courses/project-credit-card-holder-risk-prediction)                             | Начинающий  | [🚀 Начать Лабораторию](https://labex.io/ru/courses/project-credit-card-holder-risk-prediction)                  |
+|        3 | [Простой классификатор распознавания рукописных символов](https://labex.io/ru/courses/project-simple-handwritten-character-recognition-classifier) | Начинающий  | [🚀 Начать Лабораторию](https://labex.io/ru/courses/project-simple-handwritten-character-recognition-classifier) |
 
 ## Больше
 
 - 🔗 [scikit-learn Узнать больше о](https://labex.io/ru/skilltrees/sklearn)
-- 🔗 [Awesome Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Потрясающие Проекты Программирования](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Потрясающие Курсы Программирования](https://github.com/labex-labs/awesome-programming-courses)
 
