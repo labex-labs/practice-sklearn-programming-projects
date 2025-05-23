@@ -12,15 +12,15 @@ scikit-learn is a powerful Python machine learning library. This Skill Tree prov
 
 ## Exercises
 
-|   Index | Name                                                                                                                                           | Difficulty   | Practice                                                                                                |
-|---------|------------------------------------------------------------------------------------------------------------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------|
-|       1 | [Classifying Iris Using SVM](https://labex.io/en/courses/project-classifying-iris-using-svm)                                                   | ★☆☆          | [🚀 Start Lab](https://labex.io/en/courses/project-classifying-iris-using-svm)                          |
-|       2 | [Credit Card Holder Risk Prediction](https://labex.io/en/courses/project-credit-card-holder-risk-prediction)                                   | ★☆☆          | [🚀 Start Lab](https://labex.io/en/courses/project-credit-card-holder-risk-prediction)                  |
-|       3 | [Simple Handwritten Character Recognition Classifier](https://labex.io/en/courses/project-simple-handwritten-character-recognition-classifier) | ★☆☆          | [🚀 Start Lab](https://labex.io/en/courses/project-simple-handwritten-character-recognition-classifier) |
+|   Index | Name                                                                                                                                        | Difficulty   | Practice                                                                                             |
+|---------|---------------------------------------------------------------------------------------------------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------|
+|       1 | [Classifying Iris Using SVM](https://labex.io/courses/project-classifying-iris-using-svm)                                                   | Beginner     | [🚀 Start Lab](https://labex.io/courses/project-classifying-iris-using-svm)                          |
+|       2 | [Credit Card Holder Risk Prediction](https://labex.io/courses/project-credit-card-holder-risk-prediction)                                   | Beginner     | [🚀 Start Lab](https://labex.io/courses/project-credit-card-holder-risk-prediction)                  |
+|       3 | [Simple Handwritten Character Recognition Classifier](https://labex.io/courses/project-simple-handwritten-character-recognition-classifier) | Beginner     | [🚀 Start Lab](https://labex.io/courses/project-simple-handwritten-character-recognition-classifier) |
 
 ## More
 
-- 🔗 [scikit-learn Learn more about](https://labex.io/en/skilltrees/sklearn)
+- 🔗 [scikit-learn Learn more about](https://labex.io/skilltrees/sklearn)
 - 🔗 [Awesome Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 - 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
 
