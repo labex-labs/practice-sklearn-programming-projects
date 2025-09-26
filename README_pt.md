@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/N7q3t9dfWfEY.png">
 </div>
 
-scikit-learn é uma poderosa biblioteca de machine learning em Python. Esta Skill Tree oferece um caminho de aprendizado abrangente para dominar scikit-learn. É perfeito para iniciantes em ciência de dados, oferecendo um roteiro estruturado para entender algoritmos de ML, seleção de modelos e avaliação. Através de cursos práticos, sem vídeos, e exercícios práticos em um playground de ciência de dados, você obterá experiência do mundo real na implementação de soluções de machine learning.
+Aprenda scikit-learn, uma poderosa biblioteca de machine learning em Python, com este caminho de aprendizagem abrangente. Projetado para iniciantes, este roteiro oferece uma abordagem estruturada para dominar algoritmos de ML, seleção de modelos e avaliação. Os Cursos de scikit-learn incluem tutoriais práticos sem vídeo e exercícios práticos em um ambiente de ciência de dados, permitindo o desenvolvimento de experiência real na implementação de soluções de machine learning.
 
 ## Exercícios
 
