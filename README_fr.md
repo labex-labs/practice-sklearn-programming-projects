@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/N7q3t9dfWfEY.png">
 </div>
 
-scikit-learn est une bibliothèque Python puissante pour l'apprentissage automatique. Cet arbre de compétences propose un parcours d'apprentissage complet pour maîtriser scikit-learn. Il est idéal pour les débutants en science des données, offrant une feuille de route structurée pour comprendre les algorithmes d'apprentissage automatique, la sélection de modèles et l'évaluation. Grâce à des cours pratiques sans vidéo et des exercices pratiques dans un environnement de science des données, vous acquerrez une expérience concrète dans la mise en œuvre de solutions d'apprentissage automatique.
+Apprenez scikit-learn, une puissante bibliothèque Python d'apprentissage automatique, grâce à ce parcours d'apprentissage complet. Conçue pour les débutants, cette feuille de route offre une approche structurée pour maîtriser les algorithmes de ML, la sélection et l'évaluation de modèles. Les cours scikit-learn comprennent des tutoriels pratiques sans vidéo et des exercices pratiques dans un environnement de science des données, permettant de développer une expérience concrète dans la mise en œuvre de solutions d'apprentissage automatique.
 
 ## Exercices
 
